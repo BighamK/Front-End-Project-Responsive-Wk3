@@ -145,4 +145,7 @@ div {
   h1 {
     font-size: 45px;
   }
+  .text-lorem {
+    text-align: center;
+  }
 }
