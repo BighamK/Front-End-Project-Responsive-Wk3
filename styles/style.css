@@ -139,4 +139,10 @@ div {
     text-align: center;
     display: block;
   }
+  img {
+    display: none;
+  }
+  h1 {
+    font-size: 45px;
+  }
 }
